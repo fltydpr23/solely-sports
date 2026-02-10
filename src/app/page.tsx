@@ -162,7 +162,7 @@ function Hero() {
                 HIGH‑PERFORMANCE CAPTURE + COACH‑FIRST BREAKDOWNS
               </div>
               <h1 className="mt-3 text-4xl font-extrabold tracking-tight md:text-6xl">
-                Performance, documented.”
+                Performance, documented.
                 <span className="block" style={{ color: GOLD }}>
                   Built for serious academies.
                 </span>
